@@ -1,0 +1,12 @@
+/**
+ * @fileoverview added by tsickle
+ * Generated from: ngx-chess-board.ts
+ * @suppress {checkTypes,constantProperty,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+ */
+/**
+ * Generated bundle index. Do not edit.
+ */
+export { NgxChessBoardModule, NgxChessBoardService } from './public-api';
+export { NgxChessBoardComponent as ɵa } from './lib/ngx-chess-board.component';
+export { PiecePromotionModalComponent as ɵb } from './lib/piece-promotion-modal/piece-promotion-modal.component';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoibmd4LWNoZXNzLWJvYXJkLmpzIiwic291cmNlUm9vdCI6Im5nOi8vbmd4LWNoZXNzLWJvYXJkLyIsInNvdXJjZXMiOlsibmd4LWNoZXNzLWJvYXJkLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7Ozs7Ozs7O0FBSUEsMERBQWMsY0FBYyxDQUFDO0FBRTdCLE9BQU8sRUFBQyxzQkFBc0IsSUFBSSxFQUFFLEVBQUMsTUFBTSxpQ0FBaUMsQ0FBQztBQUM3RSxPQUFPLEVBQUMsNEJBQTRCLElBQUksRUFBRSxFQUFDLE1BQU0sNkRBQTZELENBQUMiLCJzb3VyY2VzQ29udGVudCI6WyIvKipcbiAqIEdlbmVyYXRlZCBidW5kbGUgaW5kZXguIERvIG5vdCBlZGl0LlxuICovXG5cbmV4cG9ydCAqIGZyb20gJy4vcHVibGljLWFwaSc7XG5cbmV4cG9ydCB7Tmd4Q2hlc3NCb2FyZENvbXBvbmVudCBhcyDJtWF9IGZyb20gJy4vbGliL25neC1jaGVzcy1ib2FyZC5jb21wb25lbnQnO1xuZXhwb3J0IHtQaWVjZVByb21vdGlvbk1vZGFsQ29tcG9uZW50IGFzIMm1Yn0gZnJvbSAnLi9saWIvcGllY2UtcHJvbW90aW9uLW1vZGFsL3BpZWNlLXByb21vdGlvbi1tb2RhbC5jb21wb25lbnQnOyJdfQ==
